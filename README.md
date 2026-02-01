@@ -1,6 +1,5 @@
 ## Hello 👋🏻. Welcome to my small land 🛬
 > This is my place where I share stuff about HCI and break things 👀🌱
-    <img 
 ---
 ### 👩🏻‍💻 This is Esma | HCI (Human-Computer Interaction) Student  
 
