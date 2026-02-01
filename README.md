@@ -27,20 +27,7 @@
 ---
 ### 🎮 Mini Game: Emoji Click Challenge
 
-How many emojis can you click? 😄  
-Just click and enjoy!
-
-- [ ] 😄
-- [ ] 🎨
-- [ ] 💻
-- [ ] ✨
-- [ ] 🚀
-- [ ] 🎯
-- [ ] 🧠
-- [ ] 🔥
-- [ ] 🌱
-
-> Tip: Refresh the page to reset the game 😉
+ 
 
 ---
 ### 💻 The best tools/ lamguages I can use
