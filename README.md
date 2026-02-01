@@ -24,18 +24,13 @@
 
 > 🎯 My goal is to create digital experiences that are simple, effective, and user-friendly.
 ---
-### 🎮 Mini Game: Emoji Click Challenge
-
- 
-
----
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sajo3&theme=github_dark)
 ---
-### 💻 The best tools/ lamguages I can use
+### 🖥 🛠 The best tools/ lamguages I can use
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### 🔗 Connect with me
+###  🔗 📬 Connect with me
 <p>
 <a href="https://github.com/EsmaMiSK/EsmaMiSK" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/esma-kashgarli-a36002358/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
